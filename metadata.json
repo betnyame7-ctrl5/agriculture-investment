@@ -1,0 +1,6 @@
+{
+  "name": "Agriculture Investment",
+  "description": "Modern professional agricultural livestock investment platform with Mobile Money deposit, livestock package cycles, withdrawals, verified earnings, live support, and administrative management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
